@@ -1,0 +1,48 @@
+body{
+    font-family: 'Ubuntu', sans-serif;
+}
+span{
+    color: rgb(253, 106, 8);
+    
+}
+h1{
+    font-weight:900;
+    font-weight: bold;
+ 
+}
+.first-portion{
+display: flex; 
+  background-image: url(exp-bg.png);
+background-repeat: no-repeat;
+background-position: left;
+margin: 0;
+}
+.half-width{
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-bottom: 50px;
+}
+.a{
+   
+    color: white;
+    text-decoration: none;
+    border: orange solid;
+    padding: 10px 20px;
+    background-image: linear-gradient(tomato , purple);
+  
+}
+.second-portion{
+    display: flex;
+    background-image: url(dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    
+}
+.img-air{
+    height: 100%;
+    width: 100%;
+}
+p{
+    font-weight: 200;
+}
