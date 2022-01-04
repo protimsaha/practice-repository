@@ -1,5 +1,6 @@
 body{
     font-family: 'Ubuntu', sans-serif;
+    margin: 0%;
 }
 span{
     color: rgb(253, 106, 8);
@@ -16,6 +17,7 @@ display: flex;
 background-repeat: no-repeat;
 background-position: left;
 margin: 0;
+
 }
 .half-width{
     width: 40%;
